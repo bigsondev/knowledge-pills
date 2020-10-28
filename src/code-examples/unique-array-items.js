@@ -1,4 +1,13 @@
-const animals = ['dog', 'cat', 'bird', 'dog', 'bird', 'elephant', 'duck', 'duck'];
+const animals = [
+  'dog',
+  'cat',
+  'bird',
+  'dog',
+  'bird',
+  'elephant',
+  'duck',
+  'duck',
+];
 
 // 1. Using Set (collection of unique values) + spread operator
 const uniqueAnimals = [...new Set(animals)];
