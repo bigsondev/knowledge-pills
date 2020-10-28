@@ -13,12 +13,11 @@ You can support me by visiting [BigsonDev](https://bigsondev.com) website.
 
 Feel free to read an article, do some interactive coding challenge, or just reach out to me for Frontend mentorship.
 
-
 # Get in touch
 
 I love sharing my knowledge with others, you can follow/join me on:
 
 - [Slack community](https://bigsondev.com/start-here/#bigsondev-slack) where I can answer your questions, help with code review, and give some tips & tricks.
-- Socials - you can find them on my website
+- Socials - you can find them on my website.
 
 **Let's skyrocket in Frontend together.** 🚀
