@@ -1,17 +1,23 @@
 # BigsonDev - Knowledge Pills
 
-# Warm Welcome ❤️
+# Welcome ❤️
 
 Hi there, great you seek knowledge.
 
 Knowledge Pills are helpful code examples & theory to help you progress as a Frontend Developer.
 They are e.g. JavaScript/HTML/CSS/React snippets of solutions and answers you might need when implementing your projects.
 
+# Projects
+
+When it comes to projects, you can check out the [Library](https://bigsondev.com/library/) on my website as it's a newly announced section, where you can work on real-world coding assignments.
+
+# Support
+
 **I'm doing my best to fill this repository with a lot of pills. 💊**
 
-You can support me by visiting [BigsonDev](https://bigsondev.com) website.
+You can support me by visiting [BigsonDev](https://bigsondev.com) website and doing some activities, e.g. reading a blog, grabbing mentoring from me, or just having fun solving code challenges.
 
-Feel free to read an article, do some interactive coding challenge, or just reach out to me for Frontend mentorship.
+If you have any ideas on which Knowledge Pills should I work next, feel free to reach out to me.
 
 # Get in touch
 
